@@ -1,0 +1,4 @@
+numpy
+pydes
+sha256
+khmer
