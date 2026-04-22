@@ -18,7 +18,7 @@ p1 = 'CCTGCAGAGTAGCATGTC'  # 5'-->3'
 p2 = 'CTGACACTGATGCATCCG'  # complement seq of P2
 
 
-work_dir = r'input_files'  + '/'
+work_dir = r'input'  + '/'
 
 input_file = work_dir + r'future-10.jpg'
 afile = open(input_file, 'rb')
